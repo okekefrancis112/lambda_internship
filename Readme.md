@@ -14,18 +14,19 @@ git clone https://github.com/okekefrancis112/lambda_internship.git
 
 ```
 
-
+### cd into the repo
 ```sh
 
 cd lambda_internship
 ```
 
+### run
 ```sh
 
 cargo build
 ```
 
-
+### run
 ```sh
 
 cargo run
